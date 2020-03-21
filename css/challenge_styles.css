@@ -1,0 +1,63 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Comic-Sans";
+
+}
+
+h2 {
+  color: #3046c5;
+}
+
+header h2 {
+  color: rgb(94, 54, 38);
+}
+
+.site-footer {
+  background-image: linear-gradient(to right, #ee3b0e, #df9b8b, #ee3b0e);
+  padding: 20px 0px;
+}
+
+.jumbotron {
+  margin: 0;
+  padding: 30px;
+  background-image: linear-gradient(to right, #ee3b0e, #df9b8b, #ee3b0e);
+  /*background-image: linear-gradient(to right, #5637de, #3046c5, #60106b);*/
+  color: white;
+}
+
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px;
+}
+
+.navbar {
+  background-color: rgb(94, 54, 38);
+}
+
+.carousel-caption {
+  background-color: rgba(143, 69, 94, 0.5);
+}
+
+.carousel {
+  border: solid #ee3b0e;
+}
+
+.bg-info,
+.btn-info {
+  background-color: rgb(94, 54, 38) !important;
+  border-color: rgb(94, 54, 38);
+}
+
+h2.text-sm-right {
+  color: rgb(94, 54, 38);
+}
+
+h2.text-sm-left {
+  color: rgb(94, 54, 38);
+}
